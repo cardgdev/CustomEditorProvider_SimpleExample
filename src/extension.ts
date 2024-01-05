@@ -52,7 +52,7 @@ class CustomEditorProvider implements vscode.CustomEditorProvider<CDoc> {
 		return Promise.resolve(new CDoc(uri));
 	}
 	resolveCustomEditor(document: CDoc, webviewPanel: vscode.WebviewPanel, token: vscode.CancellationToken): void | Thenable<void> {
-		webviewPanel.webview.html = "<html><body><h2>This is a very basic example of a custom editor</h2></body></html>";
+		webviewPanel.webview.html = "<html><body><h2>Hello world</h2></body></html>";
 	}
 	
 }
