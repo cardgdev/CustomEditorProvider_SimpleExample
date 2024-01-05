@@ -1,6 +1,6 @@
 # About
 
-The simplest possible CustomEditorProvider example. The [official example](https://github.com/microsoft/vscode-extension-samples/tree/main/custom-editor-sample) is complex and does a poor job advancing new users from 0 to 1.
+The simplest possible vscode extension CustomEditorProvider example. The [official example](https://github.com/microsoft/vscode-extension-samples/tree/main/custom-editor-sample) is complex and does a poor job advancing new users from 0 to 1.
 
 # Usage
 
